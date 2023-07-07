@@ -1,3 +1,4 @@
 *.log
 beer.log
 /dir/
+static/dir
